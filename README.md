@@ -30,3 +30,12 @@ In the future, based on the collected dictionaries, it is planned to create exte
 ### Telegram contact: @bormaxi
 
 ### ETH Donate: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+
+### A few links about why and how you can be banned:
+
+https://www.alphr.com/get-around-facebook-ban/
+
+https://alidropship.quora.com/Got-Banned-From-Facebook-Here-Are-The-Possible-Reasons-Why
+
+https://leadzavod.com/19779-2/
+
