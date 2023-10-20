@@ -10,6 +10,7 @@ In the future, based on the collected dictionaries, it is planned to create exte
 ### Dictionary structure:
 
     \dict
+	domains.txt
         Obscene lexic:
         \obscene
             \en-En.txt
