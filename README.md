@@ -23,6 +23,7 @@ In the future, based on the collected dictionaries, it is planned to create exte
             English dictionary
             \ru-RU.txt
             Russian dictionary
+	\examples
 
 ### The project welcomes to pull requests and discussions!
 
