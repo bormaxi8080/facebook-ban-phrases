@@ -7,7 +7,7 @@ This project was born from the experience of active work on Facebook, when autho
 
 In the future, based on the collected dictionaries, it is planned to create extensions for popular browsers with which you can check the "danger" of your texts before sending them to Facebook.
 
-### Dictionary structure:
+## Dictionary structure:
 
     \dict
 	domains.txt
@@ -25,20 +25,18 @@ In the future, based on the collected dictionaries, it is planned to create exte
             Russian dictionary
 	\examples
 
-### The project welcomes to pull requests and discussions!
+## The project welcomes to pull requests and discussions!
 
-### Carefully 18+! The project contains obscene lexical!.
+## Carefully 18+! The project contains obscene lexical!.
 
-### Telegram contact: @bormaxi
-
-### Telegram community (here you can offer options for what you were banned): https://t.me/facebook_ban_phrases
-
-### ETH Donate: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
-
-### A few links about why and how you can be banned:
+## A few links about why and how you can be banned:
 
 https://www.alphr.com/get-around-facebook-ban/
 
 https://alidropship.quora.com/Got-Banned-From-Facebook-Here-Are-The-Possible-Reasons-Why
 
 https://leadzavod.com/19779-2/
+
+## Donates
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
